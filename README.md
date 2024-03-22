@@ -14,9 +14,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/sullyvan-boulanger/details/experience/](https://www.linkedin.com/in/sullyvan-boulanger/details/experience/)
 
 - ⚡ Fun fact **Every time I made a game until now, a bug was too hilarious and added like a feature**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
